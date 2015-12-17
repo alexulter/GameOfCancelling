@@ -1,0 +1,14 @@
+<Solution>
+  <PropertyGroup Name="GameOfCancelling" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Project Name="Grid.csd" Type="Node" />
+        <Image Name="bubble.png" />
+        <Image Name="background.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
